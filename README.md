@@ -38,4 +38,4 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend. Rece
 
 I sincerely thank the wonderful people who support my open source work.
 [![KO-FI](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeqi713)
-[![WX](./Assets/wx.jpg)]
+[![WX](./Assets/WX.jpg)]
