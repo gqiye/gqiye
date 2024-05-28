@@ -1,4 +1,7 @@
-<img src="./Assets/GitHub_Header.jpg" alt="Header image" width="80%" height="300px" />
+<p align="center">
+  <img src="./Assets/GitHub_Header.jpg" alt="Header image" width="80%" height="300px" />
+</p>
+
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/sgk-ckj-wcq -->
 
 ##
