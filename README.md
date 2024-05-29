@@ -16,7 +16,7 @@ I'm a tech enthusiast who loves to learn about new things,I likes VR/AR/MR devel
 ### Projects
 
 Apart from the pinned repositories, I have built:
-- 🛡️ [VRstorm](https://github.com/gqiye/VRstorm)
+- 🛡️ [VRstorm](https://github.com/gqiye/VRstorm) I am trying to put [this page](https://codesandbox.io/p/devbox/r3f-ts-playground-7ffjx5?file=%2FREADME.md) into VR mode
 
 ## Tech Stack
 
