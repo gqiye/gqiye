@@ -18,6 +18,7 @@ I'm a tech enthusiast who loves to learn about new things,I likes VR/AR/MR devel
 Apart from the pinned repositories, I have built:
 - 🛡️ [VRstorm](https://github.com/gqiye/VRstorm) I am trying to put [this page](https://codesandbox.io/p/devbox/r3f-ts-playground-7ffjx5?file=%2FREADME.md) into VR mode
 -  [Image exhibition](https://cultural-relics-exhibition.vercel.app) This is a gallery exhibition, WSAD mobile on PC, and Quest3 can choose to enter VR mode.
+-  [threejs-journey](https://github.com/gqiye/threejs-journey) 布鲁诺·西蒙的threejs 课程实践
 ## Tech Stack
 
 I mostly work with **JavaScript**, specifically **Node.js** in the backend. Recently, I have been tinkering with **Three**.
