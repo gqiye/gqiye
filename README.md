@@ -37,7 +37,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend. Rece
 
 ## support
 
-I sincerely thank the wonderful people who support my open source work.
+I sincerely thank the wonderful people who support my.
 [![KO-FI](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/yeqi713)
-<p></p>
-<img src="./Assets/WX.jpg"  width="150px" height="150px" />
+
