@@ -35,9 +35,8 @@ I'm a tech enthusiast specializing in **VR/AR/MR development**. Currently, I am 
 | Feature | Description |
 |---|---|
 | 🎯 **Ultra-Low Latency** | Real-time streaming optimized for spatial computing workloads |
-| 🌐 **Cross-Platform** | Supports Meta Quest, Android, Windows, and OpenXR devices |
+| 🌐 **Cross-Platform** | Supports Meta Quest, Galaxy XR, and Android XR devices |
 | 📱 **Phone-to-XR** | Turn your smartphone into a powerful XR streaming source |
-| 🔒 **Enterprise Ready** | SDK & API available for enterprise integration |
 
 <p align="center">
   <a href="https://mirrorxr.com"><img src="https://img.shields.io/badge/🌐_Learn_More-mirrorxr.com-007AFF?style=for-the-badge" alt="Learn more at mirrorxr.com" /></a>
