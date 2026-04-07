@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/GitHub_Header.png" alt="MirrorXR & XRControl — Turning your smartphone into the ultimate XR accessory" width="100%" height="200" />
+  <img src="./Assets/GitHub_Header2.png" alt="MirrorXR & XRControl — Turning your smartphone into the ultimate XR accessory" width="100%" />
 </p>
 
 <h1 align="center">Shaping the XR Future: MirrorXR & XRControl 👋</h1>
