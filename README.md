@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/GitHub_Header.png" alt="MirrorXR & XRControl — Turning your smartphone into the ultimate XR accessory" width="100%" />
+  <img src="./Assets/GitHub_Header.png" alt="MirrorXR & XRControl — Turning your smartphone into the ultimate XR accessory" width="100%" height="200" />
 </p>
 
 <h1 align="center">Shaping the XR Future: MirrorXR & XRControl 👋</h1>
@@ -26,6 +26,10 @@ I'm a tech enthusiast specializing in **VR/AR/MR development**. Currently, I am 
 
 ## 🚀 Featured Project: MirrorXR
 
+<p align="center">
+  <img src="./Assets/MirrorXR.png" alt="MirrorXR — High-performance immersive streaming platform for ultra-low latency spatial experiences" width="720" />
+</p>
+
 **MirrorXR** is a high-performance **immersive streaming platform** designed for **ultra-low latency spatial experiences**. It empowers users to leverage mobile hardware as powerful XR peripherals, enabling seamless cross-device connectivity between smartphones, PCs, and MR headsets.
 
 | Feature | Description |
@@ -43,6 +47,10 @@ I'm a tech enthusiast specializing in **VR/AR/MR development**. Currently, I am 
 ---
 
 ## 🛠️ Ecosystem: XRControl
+
+<p align="center">
+  <img src="./Assets/XRControl .webp" alt="XRControl — Next-gen spatial interaction and device management for MR headsets" width="720" />
+</p>
 
 **XRControl** provides advanced **spatial interaction and device management solutions** for MR headsets, ensuring seamless cross-platform connectivity. It transforms your Android phone into a **wireless mouse, keyboard, and gamepad** using standard **Bluetooth HID** protocol.
 
